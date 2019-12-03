@@ -1,0 +1,17 @@
+.opc{
+    opacity: 0.5;
+}
+.header{
+    composes: opc;
+    height: 5em;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    font-size: 2em;
+    /* background-image: url('/imgs/logo.png') */
+}
+
+
+
