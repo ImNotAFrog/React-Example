@@ -1,1 +1,2 @@
 本地conflict文件内容
+远程端的conflict文件内容
